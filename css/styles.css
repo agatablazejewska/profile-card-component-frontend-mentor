@@ -59,15 +59,18 @@ body {
 
 .data-header {
     font-weight: 700;
+    margin-bottom: 0;
 }
 
 .data-content {
     font-size: 0.8rem;
     color: #6B7082;
+    margin-top: 0.6em;
 }
 
 .age {
     font-size: 1.125rem;
+    margin-top: 1em;
 }
 
 .main__personal-data {
