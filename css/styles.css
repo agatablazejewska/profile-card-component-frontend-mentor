@@ -63,7 +63,7 @@ body {
 }
 
 .data-content {
-    font-size: 0.8rem;
+    font-size: 0.6rem;
     color: #6B7082;
     margin-top: 0.6em;
 }
@@ -80,6 +80,7 @@ body {
 
 .main__city {
     margin: 0 0 40% 0;
+    font-size: 0.9rem;
 }
 
 .stats {
