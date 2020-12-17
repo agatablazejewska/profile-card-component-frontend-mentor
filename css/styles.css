@@ -111,8 +111,23 @@ body {
         background-position:  right 45vw bottom 30vh, left 45vw top 30vh;
     }
 
-    body, .age {
+    body {
         font-size: 3rem;
+    }
+
+    .data-content {
+        font-size: 1.2rem;
+        color: #6B7082;
+        margin-top: 0.6em;
+    }
+
+    .age {
+        font-size: 3rem;
+        margin-top: 1em;
+    }
+
+    .main__city {
+        font-size: 1.5rem;
     }
 
     .card {
