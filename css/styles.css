@@ -81,6 +81,7 @@ body {
 .main__city {
     margin: 0 0 40% 0;
     font-size: 0.9rem;
+    color: #6B7082;
 }
 
 .stats {
