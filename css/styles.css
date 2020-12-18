@@ -38,7 +38,7 @@ body {
     width: 100%;
     height: 35%;
     background: url("../images/bg-pattern-card.svg");
-    background-size: 101%;
+    background-size: 101% 101%;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -108,31 +108,31 @@ body {
 @media(min-width: 1441px) {
     body {
         background-size: 100em;
-        background-position:  right 45vw bottom 30vh, left 45vw top 30vh;
+        background-position:  right 46vw bottom 20vh, left 46vw top 20vh;
     }
 
     body {
-        font-size: 3rem;
+        font-size: 1.5rem;
     }
 
     .data-content {
-        font-size: 1.2rem;
+        font-size: 0.9rem;
         color: #6B7082;
         margin-top: 0.6em;
     }
 
     .age {
-        font-size: 3rem;
+        font-size: 1.5rem;
         margin-top: 1em;
     }
 
     .main__city {
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
 
     .card {
-        width: 30em;
-        max-width: 1200px;
+        width:17em;
+        max-width: 350px;
     }
 
     .card__person-photo {
@@ -142,15 +142,19 @@ body {
     }
 
     .main {
-        margin-top: 20%;
+        margin-top: 30%;
     }
 
     .main__name {
         margin-right: 0.4em;
     }
 
+    .stats {
+        margin-bottom: 0;
+    }
+
     .attribution {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
 }
